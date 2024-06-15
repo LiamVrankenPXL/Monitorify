@@ -34,10 +34,7 @@ export default {
 .boek-een-demo-4
   letter-spacing: 0
   line-height: normal
-  margin-bottom: -2.50px
-  margin-left: -17.23px
-  margin-right: -17.23px
-  margin-top: -4.50px
+  margin: -4.50px -17.23px -2.50px
   position: relative
   text-align: right
   white-space: nowrap

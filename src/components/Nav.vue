@@ -3,7 +3,7 @@
     <router-link to="/overviewweb" className="align-self-flex-end"
       ><img
         class="image-11"
-        src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c4768120374cbfbab03e4/img/image-11.png"
+        src="../../public/img/image-11.png"
         alt="image 11"
       /> </router-link
     ><router-link to="/overviewweb"

@@ -22,12 +22,12 @@
           <div class="voornaam arimo-normal-gray-18px">{{ voornaam }}</div>
           <img
             class="vector-6-1"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-6-1.svg"
+            src="../../public/img/vector-6-1@2x.png"
             alt="Vector 6"
           />
           <img
             class="vector-9-1"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-9-1.svg"
+            src="../../public/img/vector-6-1@2x.png"
             alt="Vector 9"
           />
         </div>
@@ -37,22 +37,22 @@
         <p class="vertel-ons-over-het-probleem arimo-normal-gray-18px">{{ vertelOnsOverHetProbleem }}</p>
         <img
           class="vector-7-1"
-          src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-6-1.svg"
+          src="../../public/img/vector-6-1@2x.png"
           alt="Vector 7"
         />
         <img
           class="vector-11-1"
-          src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-11-1.svg"
+          src="../../public/img/vector-6-1@2x.png"
           alt="Vector 11"
         />
         <img
           class="vector-10-1"
-          src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-9-1.svg"
+          src="../../public/img/vector-6-1@2x.png"
           alt="Vector 10"
         />
         <img
           class="vector-8-1"
-          src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-8-1.svg"
+          src="../../public/img/vector-6-1@2x.png"
           alt="Vector 8"
         />
         <div class="frame-container-5">
@@ -68,9 +68,9 @@
         />
         <div class="overlap-group5-2">
           <div class="group-container-3">
-            <img class="group-169" :src="group169" alt="Group 169" /><img
+            <img class="group-169" src="../../public/img/group-169.png" alt="Group 169" /><img
               class="mask-group-16"
-              :src="maskGroup"
+              src=""
               alt="Mask group"
             />
           </div>

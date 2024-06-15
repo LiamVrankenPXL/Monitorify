@@ -27,7 +27,7 @@ export const xFooter1Data = {
 
 export const overviewWebData = {
     innovatiefPlatform: "Innovatief platform voor moeiteloze communicatie met een op maat gemaakte schoolervaring.",
-    headphoto: "https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c4768120374cbfbab03e4/img/headphoto.png",
+    headphoto: "../../public/img/headphoto.png",
     maskGroup1: "https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c4768120374cbfbab03e4/img/mask-group-10@2x.png",
     group193: "https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c4768120374cbfbab03e4/img/group-193@2x.png",
     maskGroup2: "https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c4768120374cbfbab03e4/img/mask-group-12.png",
