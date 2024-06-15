@@ -70,7 +70,7 @@
           <div class="group-container-3">
             <img class="group-169" src="../../public/img/group-169.png" alt="Group 169" /><img
               class="mask-group-16"
-              src=""
+              src="../../public/img/mask-group-8.png"
               alt="Mask group"
             />
           </div>
