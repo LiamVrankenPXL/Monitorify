@@ -2,15 +2,15 @@
   <div class="container-center-horizontal">
     <div class="portalloginweb screen">
       <div class="overlap-group">
-        <div class="group-327" :style="{ 'background-image': 'url(' + group327 + ')' }">
+        <div class="group-327">
           <div class="rectangle-32"></div>
         </div>
         <div class="rectangle-27"></div>
         <div class="rectangle-31"></div>
-        <img class="image-18" :src="image18" alt="image 18" />
+        <img class="image-18" src="../../public/img/image-18.png" alt="image 18" />
         <div class="aanmelden">{{ aanmelden }}</div>
         <div class="login-nummer-studentpxlbe">{{ loginNummerStudentPxlBe }}</div>
-        <img class="vector-9" :src="vector9" alt="Vector 9" />
+        <img class="vector-9" src="../../public/img/vector-9-2@2x.png" alt="Vector 9" />
         <p class="hebt-u-geen-toegang-tot-het-account">{{ hebtUGeenToegangTotHetAccount }}</p>
         <div class="rectangle-28"></div>
         <div class="rectangle-29"></div>
@@ -20,7 +20,7 @@
         <p class="login-studenten-lo arial-regular-normal-black-14px" v-html="loginStudentenLo"></p>
         <img
           class="signin-options_3e3f6"
-          :src="signinOptions_3E3F6B73C3F310C31D2C4"
+          src="../../public/img/signin-options-3e3f6b73c3f310c31d2c4d131a8ab8c6-1@2x.png"
           alt="signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6 1"
         />
         <div class="aanmeldingsopties arial-regular-normal-black-14px">{{ aanmeldingsopties }}</div>
@@ -50,6 +50,10 @@ export default {
 
 <style lang="sass">
 @import '../../variables'
+
+.group-327
+  background-image: url("../../public/img/image-15-1.png")
+
 
 .portalloginweb
   align-items: flex-start

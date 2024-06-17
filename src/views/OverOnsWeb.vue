@@ -9,7 +9,7 @@
             <div class="overlap-group3-1">
               <img
                 class="vector-15"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-12.svg"
+                src="../../public/img/vector-12@2x.png"
                 alt="Vector"
               />
               <div class="onze-waarden didactgothic-normal-white-25px" v-html="onzeWaarden"></div>
@@ -22,7 +22,7 @@
             </div>
           </div>
         </div>
-        <div class="overlap-group-7"><img class="mask-group-14" :src="maskGroup1" alt="Mask group" /></div>
+        <div class="overlap-group-7"><img class="mask-group-14" src="../../public/img/mask-group-2.png" alt="Mask group" /></div>
       </div>
       <div class="flex-row-12">
         <div class="flex-col-9">
@@ -45,28 +45,28 @@
             <div class="vector-container">
               <img
                 class="vector-16"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-1.svg"
+                src="../../public/img/vector-1@2x.png"
                 alt="Vector"
               />
               <img
                 class="vector-17"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-2.svg"
-                alt="Vector"
+                src="../../public/img/vector-2@2x.png"
+                alt="Vector try"
               />
             </div>
-            <img class="mask-group-15" :src="maskGroup2" alt="Mask group" />
+            <img class="mask-group-15" src="../../public/img/mask-group-1@2x.png" alt="Mask group" />
           </div>
           <div class="flex-col-11">
             <div class="overlap-group18-1">
               <img
                 class="vector-18"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-9.svg"
+                src="../../public/img/vector-9@2x.png"
                 alt="Vector"
               />
               <div class="name">{{ name1 }}</div>
               <img
                 class="vector-19"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-10.svg"
+                src="../../public/img/vector-10@2x.png"
                 alt="Vector"
               />
               <p class="to-reach-great-heig">{{ toReachGreatHeig }}</p>
@@ -80,10 +80,11 @@
               <div class="overlap-group-5">
                 <img
                   class="vector-13"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-15.svg"
+                  src="../../public/img/vector-15@2x.png"
                   alt="Vector"
                 />
-                <img class="mask-group-13" :src="maskGroup3" alt="Mask group" />
+                <img class="mask-group-13" src="../../public/img/mask-group-3.png" alt="Mask group" />
+
               </div>
               <div class="name-1 arimo-bold-black-32px">{{ name2 }}</div>
               <div class="lead-dev didactgothic-normal-black-22px">{{ leadDev }}</div>
@@ -92,19 +93,21 @@
               <div class="overlap-group-5">
                 <img
                   class="vector-13"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-15.svg"
+                  src="../../public/img/vector-15@2x.png"
                   alt="Vector"
                 />
-                <img class="mask-group-13" :src="maskGroup4" alt="Mask group" />
+                <img class="mask-group-13" src="../../public/img/mask-group-5.png" alt="Mask group" />
+
               </div>
               <div class="overlap-group11-1">
                 <div class="developer didactgothic-normal-black-22px">{{ developer1 }}</div>
                 <div class="name-2 arimo-bold-black-32px">{{ name3 }}</div>
               </div>
             </div>
-            <img class="galerij_1" :src="galerij_1" alt="Galerij_1" /><img
+            <img class="galerij_1" src="../../public/img/galerij-4.png" alt="Galerij_1" /><img
+
               class="galerij"
-              :src="galerij_4"
+              src="../../public/img/galerij-5.png"
               alt="Galerij_4"
             />
           </div>
@@ -113,10 +116,10 @@
               <div class="overlap-group-6">
                 <img
                   class="vector-14"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-15.svg"
+                  src="../../public/img/mask-group-6@2x.png"
                   alt="Vector"
                 />
-                <img class="mask-group-13" :src="maskGroup5" alt="Mask group" />
+                <img class="mask-group-13" src="../../public/img/vector-15@2x.png" alt="Mask group" />
               </div>
               <div class="sigrid-vanderstreaten arimo-bold-black-32px">{{ sigridVanderstreaten }}</div>
               <div class="office-manager didactgothic-normal-black-22px">{{ officeManager }}</div>
@@ -125,10 +128,10 @@
               <div class="overlap-group-6">
                 <img
                   class="vector-14"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-15.svg"
+                  src="../../public/img/mask-group@2x.png"
                   alt="Vector"
                 />
-                <img class="mask-group-13" :src="maskGroup6" alt="Mask group" />
+                <img class="mask-group-13" src="../../public/img/vector-15@2x.png" alt="Mask group" />
               </div>
               <div class="overlap-group9">
                 <div class="developer-1 didactgothic-normal-black-22px">{{ developer2 }}</div>
@@ -136,9 +139,9 @@
               </div>
             </div>
             <div class="galerij-2 arimo-bold-black-45px">{{ galerij2 }}</div>
-            <img class="galerij_2" :src="galerij_2" alt="Galerij_2" /><img
+            <img class="galerij_2" src="../../public/img/galerij-1.png" alt="Galerij_2" /><img
               class="galerij"
-              :src="galerij_5"
+              src="../../public/img/galerij-2.png"
               alt="Galerij_5"
             />
           </div>
@@ -147,10 +150,10 @@
               <div class="overlap-group-6">
                 <img
                   class="vector-14"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-15.svg"
+                  src="../../public/img/mask-group-4.png"
                   alt="Vector"
                 />
-                <img class="mask-group-13" :src="maskGroup7" alt="Mask group" />
+                <img class="mask-group-13" src="../../public/img/vector-15@2x.png" alt="Mask group" />
               </div>
               <div class="mirthe-siemens arimo-bold-black-32px">{{ mirtheSiemens }}</div>
               <div class="lead-performance didactgothic-normal-black-22px">{{ leadPerformance }}</div>
@@ -159,24 +162,24 @@
               <div class="overlap-group17-1">
                 <img
                   class="vector-20"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-3.svg"
-                  alt="Vector"
+                  src="../../public/img/vector-3@2x.png"
+                  alt="Vectorrrr"
                 />
                 <img
                   class="vector-21"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-8.svg"
+                  src="../../public/img/vector-8@2x.png"
                   alt="Vector"
                 />
-                <img class="galerij_3" :src="galerij_3" alt="Galerij_3" />
+                <img class="galerij_3" src="../../public/img/galerij-3.png" alt="Galerij_3" />
               </div>
               <div class="team_6">
                 <div class="overlap-group-6">
                   <img
                     class="vector-14"
-                    src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-15.svg"
+                    src="../../public/img/mask-group-7.png"
                     alt="Vector"
                   />
-                  <img class="mask-group-13" :src="maskGroup8" alt="Mask group" />
+                  <img class="mask-group-13" src="../../public/img/vector-15@2x.png" alt="Mask group" />
                 </div>
                 <div class="overlap-group13">
                   <div class="uiu-xer didactgothic-normal-black-22px">{{ uiUxer }}</div>
@@ -184,28 +187,28 @@
                 </div>
               </div>
             </div>
-            <img class="galerij" :src="galerij_6" alt="Galerij_6" />
+            <img class="galerij" src="../../public/img/galerij-6@2x.png" alt="Galerij_6" />
           </div>
         </div>
         <div class="overlap-group16-1">
           <img
             class="vector-22"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-4.svg"
-            alt="Vector"
+            src="../../public/img/vector-4@2x.png"
+            alt="Vectorr"
           />
           <img
             class="vector-23"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-5.svg"
+            src="../../public/img/vector-5@2x.png"
             alt="Vector"
           />
           <img
             class="vector-24"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-6.svg"
+            src="../../public/img/vector-6@2x.png"
             alt="Vector"
           />
           <img
             class="vector-25"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-7.svg"
+            src="../../public/img/vector-7@2x.png"
             alt="Vector"
           />
           <x-footer
@@ -222,6 +225,7 @@
 <script>
 import xNav from "../components/Nav.vue";
 import xFooter from "../components/FooterImg.vue";
+
 export default {
   name: "OverOnsWeb",
   components: {

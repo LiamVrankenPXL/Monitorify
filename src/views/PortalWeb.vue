@@ -11,13 +11,13 @@
           />
         </div>
         <router-link to="/portalloginweb">
-          <div class="school_1"><img class="image-21" :src="image21" alt="image 21" /></div
+          <div class="school_1"><img class="image-21" src="../../public/img/image-21.png" alt="image 21" /></div
         ></router-link>
-        <div class="school_2"><img class="image-22" :src="image22" alt="image 22" /></div>
-        <div class="school_3"><img class="image-23" :src="image23" alt="image 23" /></div>
-        <div class="school_4"><img class="image-24" :src="image24" alt="image 24" /></div>
-        <div class="school_6"><img class="image-25" :src="image25" alt="image 25" /></div>
-        <div class="school_5"><img class="image-26" :src="image26" alt="image 26" /></div>
+        <div class="school_2"><img class="image-22" src="../../public/img/image-22.png" alt="image 22" /></div>
+        <div class="school_3"><img class="image-23" src="../../public/img/image-23.png" alt="image 23" /></div>
+        <div class="school_4"><img class="image-24" src="../../public/img/image-24.png" alt="image 24" /></div>
+        <div class="school_6"><img class="image-25" src="../../public/img/image-25.png" alt="image 25" /></div>
+        <div class="school_5"><img class="image-26" src="../../public/img/image-26.png" alt="image 26" /></div>
         <x-nav :className="xNavProps.className" />
       </div>
     </div>

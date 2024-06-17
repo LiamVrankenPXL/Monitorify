@@ -7,33 +7,34 @@
             <div class="overlap-group20">
               <img
                 class="vector-3"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-22.svg"
+                src="../../public/img/vector-22@2x.png"
                 alt="Vector"
               />
               <p class="innovatief-platform">{{ innovatiefPlatform }}</p>
             </div>
-            <div class="overlap-group17"><img class="headphoto" :src="headphoto" alt="Headphoto" /><x-nav /></div>
+            <div class="overlap-group17"><img class="headphoto" src="../../public/img/headphoto.png" alt="Headphoto" /><x-nav /></div>
+
           </div>
           <div class="flex-row">
             <div class="flex-col-2">
               <div class="group-container">
-                <img class="mask-group-5" :src="maskGroup1" alt="Mask group" /><img
+                <img class="mask-group-5" src="../../public/img/mask-group-10@2x.png" alt="Mask group" /><img
                   class="group-193"
-                  :src="group193"
+                  src="../../public/img/group-193@2x.png"
                   alt="Group 193"
                 />
               </div>
               <img
                 class="laag_1"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/laag-1-4.svg"
+                src="../../public/img/laag-1-4.svg"
                 alt="Laag_1"
               />
             </div>
             <div class="mask-group-container">
-              <img class="mask-group" :src="maskGroup2" alt="Mask group" /><img
+              <img class="mask-group" src="../../public/img/mask-group-12.png" alt="Mask group" /><img
                 class="mask-group"
-                :src="maskGroup3"
-                alt="Mask group"
+                src="../../public/img/mask-group-28.png"
+                alt="Mask group1"
               />
             </div>
             <div class="flex-col-3">
@@ -52,7 +53,7 @@
               <p class="mijn-studenten-hebbe didactgothic-normal-black-24px">{{ mijnStudentenHebbe }}</p>
               <div class="flex-row-1">
                 <p class="oh-geen-probleem-wi didactgothic-normal-black-24px">{{ ohGeenProbleemWi }}</p>
-                <img class="mask-group-6" :src="maskGroup4" alt="Mask group" />
+                <img class="mask-group-6" src="../../public/img/mask-group-30@2x.png" alt="Mask group" />
               </div>
               <div class="frame-container-1">
                 <div class="frame-5"></div>
@@ -62,7 +63,7 @@
                 <div class="overlap-group21">
                   <div class="overlap-group16">
                     <div class="rectangle-20"></div>
-                    <img class="mask-group-7" :src="maskGroup5" alt="Mask group" />
+                    <img class="mask-group-7" src="../../public/img/mask-group-29.png" alt="Mask group" />
                     <div class="overlap-group4">
                       <div class="rectangle-5"></div>
                       <div class="rectangle-2-2"></div>
@@ -79,7 +80,7 @@
                     <div class="group-110">
                       <img
                         class="vector-4"
-                        src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-28.svg"
+                        src="../../public/img/vector-28@2x.png"
                         alt="Vector"
                       />
                       <div class="resources arimo-normal-white-25px">{{ resources }}</div>
@@ -101,11 +102,11 @@
         <div class="flex-row-2">
           <div class="overlap-group5">
             <div class="rectangle-9"></div>
-            <img class="mask-group-8" :src="maskGroup6" alt="Mask group" />
+            <img class="mask-group-8" src="../../public/img/mask-group-13.png" alt="Mask group" />
           </div>
           <img
             class="vector-5"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-23.svg"
+            src="../../public/img/vector-23@2x.png"
             alt="Vector"
           />
           <div class="flex-col-4">
@@ -114,7 +115,7 @@
             <div class="uniek_element_1">
               <img
                 class="icround-dashboard-customize"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/ic-round-dashboard-customize.svg"
+                src="../../public/img/ic-round-dashboard-customize@2x.png"
                 alt="ic:round-dashboard-customize"
               />
               <div class="complete-custom-styling didactgothic-normal-black-20px">{{ completeCustomStyling }}</div>
@@ -122,17 +123,17 @@
             <div class="uniek_element_2">
               <img
                 class="uiwstar-on"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/uiw-star-on.svg"
+                src="../../public/img/uiw-star-on@2x.png"
                 alt="uiw:star-on"
               />
               <p class="gevorderde-gebruiker didactgothic-normal-black-20px">{{ gevorderdeGebruiker }}</p>
             </div>
             <div class="uniek_element_3">
-              <img class="group-8" :src="group8" alt="Group 8" />
+              <img class="group-8" src="../../public/img/group-8@2x.png" alt="Group 8" />
               <p class="duidelijk-overzicht didactgothic-normal-black-20px" v-html="duidelijkOverzicht"></p>
             </div>
             <div class="uniek_element_4">
-              <img class="group-7" :src="group7" alt="Group 7" />
+              <img class="group-7" src="../../public/img/group-7-1@2x.png" alt="Group 7" />
               <div class="makkelijk-en-snel-gebruiken didactgothic-normal-black-20px">
                 {{ makkelijkEnSnelGebruiken }}
               </div>
@@ -140,7 +141,7 @@
             <div class="uniek_element_5">
               <img
                 class="academiconsopen-access"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/academicons-open-access.svg"
+                src="../../public/img/academicons-open-access-1@2x.png"
                 alt="academicons:open-access"
               />
               <div class="altijd-toegankelijk didactgothic-normal-black-20px">{{ altijdToegankelijk }}</div>
@@ -150,16 +151,16 @@
         <div class="flex-col-5">
           <div class="flex-row-3">
             <div class="group-container-1">
-              <img class="mask-group-9" :src="maskGroup7" alt="Mask group" />
+              <img class="mask-group-9" src="../../public/img/mask-group-11.png" alt="Mask group" />
               <div class="overlap-group19">
                 <img
                   class="vector-6"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-24.svg"
-                  alt="Vector"
+                  src="../../public/img/vector-24@2x.png"
+                  alt="Vectorr"
                 />
                 <img
                   class="vector-7"
-                  src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-25.svg"
+                  src="../../public/img/vector-25@2x.png"
                   alt="Vector"
                 />
                 <p
@@ -179,7 +180,7 @@
             </div>
             <img
               class="laag_1-1"
-              src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/laag-1-5.svg"
+              src="../../public/img/laag-1-6.png"
               alt="Laag_1"
             />
           </div>
@@ -187,7 +188,7 @@
           <div class="achterschermen-container">
             <div class="achter-schermen-student">
               <div class="overlap-group8">
-                <img class="mask-group-10" :src="maskGroup8" alt="Mask group" />
+                <img class="mask-group-10" src="../../public/img/mask-group-15.png" alt="Mask group" />
                 <div class="rectangle-17"></div>
               </div>
               <div class="dashboard-student arimo-semi-bold-black-28px">{{ dashboardStudent }}</div>
@@ -195,7 +196,7 @@
             </div>
             <div class="achter-schermen-coach">
               <div class="overlap-group7">
-                <img class="mask-group-11" :src="maskGroup9" alt="Mask group" />
+                <img class="mask-group-11" src="../../public/img/mask-group-14.png" alt="Mask group" />
                 <div class="rectangle-18"></div>
               </div>
               <div class="dashboard-coach arimo-semi-bold-black-28px">{{ dashboardCoach }}</div>
@@ -207,20 +208,20 @@
             <div class="overlap-group-1">
               <div class="rectangle-2"></div>
               <div class="rectangle-2-1"></div>
-              <img class="mask-group-1" :src="maskGroup10" alt="Mask group" />
+              <img class="mask-group-1" src="../../public/img/mask-group-16@2x.png" alt="Mask group" />
               <p class="zowel-studenten-als didactgothic-normal-white-22px">{{ zowelStudentenAls }}</p>
             </div>
             <div class="overlap-group-1">
               <div class="rectangle-2"></div>
               <div class="rectangle-2-1"></div>
-              <img class="mask-group-1" :src="maskGroup11" alt="Mask group" />
+              <img class="mask-group-1" src="../../public/img/mask-group-31@2x.png" alt="Mask group" />
               <p class="monitorify-biedt-all didactgothic-normal-white-22px">{{ monitorifyBiedtAll }}</p>
             </div>
           </div>
         </div>
       </div>
       <div class="flex-row-4">
-        <img class="group-170" :src="group170" alt="Group 170" />
+        <img class="group-170" src="../../public/img/group-170.png" alt="Group 170" />
         <div class="overlap-group18">
           <img
             class="vector-8"
@@ -249,23 +250,23 @@
       <div class="ervaringen-studenten">
         <div class="overlap-group-container">
           <div class="overlap-group2-1">
-            <img class="mask-group-2" :src="maskGroup12" alt="Mask group" /><img
+            <img class="mask-group-2" src="../../public/img/mask-group-19@2x.png"  alt="Mask group" /><img
               class="vector-10"
-              src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+              src="../../public/img/vector-29@2x.png"
               alt="Vector"
             />
           </div>
           <div class="overlap-group11">
-            <img class="mask-group-12" :src="maskGroup13" alt="Mask group" /><img
+            <img class="mask-group-12" src="../../public/img/mask-group-20@2x.png" alt="Mask group" /><img
               class="vector"
-              src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+              src="../../public/img/vector-29@2x.png"
               alt="Vector"
             />
           </div>
           <div class="overlap-group4-1">
-            <img class="mask-group-3" :src="maskGroup14" alt="Mask group" /><img
+            <img class="mask-group-3" src="../../public/img/mask-group-21@2x.png" alt="Mask group" /><img
               class="vector-11"
-              src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+              src="../../public/img/vector-29@2x.png"
               alt="Vector"
             />
           </div>
@@ -273,76 +274,76 @@
         <div class="flex-row-5">
           <div class="overlap-group-container">
             <div class="overlap-group-2">
-              <img class="mask-group-2" :src="maskGroup15" alt="Mask group" /><img
+              <img class="mask-group-2" src="../../public/img/mask-group-22@2x.png" alt="Mask group" /><img
                 class="vector-1"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
             </div>
             <div class="overlap-group-3">
-              <img class="mask-group-4" :src="maskGroup16" alt="Mask group" /><img
+              <img class="mask-group-4" src="../../public/img/mask-group-23@2x.png" alt="Mask group" /><img
                 class="vector"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
             </div>
             <div class="overlap-group-4">
               <img
                 class="vector-2"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
-              <img class="mask-group-3" :src="maskGroup17" alt="Mask group" />
+              <img class="mask-group-3" src="../../public/img/mask-group-24@2x.png" alt="Mask group" />
             </div>
           </div>
           <div class="overlap-group-container-4">
             <div class="overlap-group-2">
               <img
                 class="vector-1"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
-              <img class="mask-group-2" :src="maskGroup18" alt="Mask group" />
+              <img class="mask-group-2" src="../../public/img/mask-group-25@2x.png" alt="Mask group" />
             </div>
             <div class="overlap-group-3">
               <img
                 class="vector"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
-              <img class="mask-group-4" :src="maskGroup19" alt="Mask group" />
+              <img class="mask-group-4" src="../../public/img/mask-group-26@2x.png" alt="Mask group" />
             </div>
             <div class="overlap-group-4">
               <img
                 class="vector-2"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
-              <img class="mask-group-3" :src="maskGroup20" alt="Mask group" />
+              <img class="mask-group-3" src="../../public/img/mask-group-27@2x.png" alt="Mask group" />
             </div>
           </div>
           <div class="overlap-group-container-5">
             <div class="overlap-group-2">
-              <img class="mask-group-2" :src="maskGroup21" alt="Mask group" /><img
+              <img class="mask-group-2" src="../../public/img/mask-group-18@2x.png" alt="Mask group" /><img
                 class="vector-1"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
             </div>
             <div class="overlap-group-3">
-              <img class="mask-group-4" :src="maskGroup22" alt="Mask group" /><img
+              <img class="mask-group-4" src="../../public/img/mask-group-9@2x.png" alt="Mask group" /><img
                 class="vector"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-38.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
             </div>
             <div class="overlap-group6">
               <img
                 class="vector-2"
-                src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-29.svg"
+                src="../../public/img/vector-29@2x.png"
                 alt="Vector"
               />
-              <img class="mask-group-3" :src="maskGroup23" alt="Mask group" />
+              <img class="mask-group-3" src="../../public/img/mask-group-17@2x.png" alt="Mask group" />
             </div>
           </div>
         </div>
