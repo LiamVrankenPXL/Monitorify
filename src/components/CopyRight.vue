@@ -1,6 +1,7 @@
 <template>
   <div class="group-91">
-    <img class="phcopyright-thin" :src="phCopyrightThin" alt="ph:copyright-thin" />
+    <img class="phcopyright-thin" src="../../public/img/ph-copyright-thin@2x.png"
+         alt="ph:copyright-thin" />
     <p class="address didactgothic-normal-black-12px">2024 Alle rechten voorbehouden voor Monitorify, privacy</p>
   </div>
 </template>

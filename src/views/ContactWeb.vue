@@ -63,7 +63,7 @@
         </div>
         <img
           class="vector-26"
-          src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-21.svg"
+          src="../../public/img/vector-21@2x.png"
           alt="Vector"
         />
         <div class="overlap-group5-2">

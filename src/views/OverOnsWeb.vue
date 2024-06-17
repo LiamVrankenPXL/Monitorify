@@ -320,6 +320,8 @@ export default {
   margin-top: 62px
   min-width: 615px
 
+
+
 .overlap-group3-1
   background-image: url(https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-13.svg)
   background-size: 100% 100%

@@ -2,11 +2,11 @@
   <footer class="footer">
     <img
       class="laag_1-2"
-      src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/laag-1-6.svg"
+      src="../../public/img/laag-1-6.svg"
       alt="Laag_1"
     />
     <div class="flex-row-7 didactgothic-normal-sonic-silver-25px">
-      <div class="overview">overview</div>
+      <div class="overvie-w">overview</div>
       <div class="about-us">about us</div>
       <div class="place-3">contact</div>
       <div class="place-4">Portal</div>
@@ -14,7 +14,7 @@
     </div>
     <img
       class="vector-4-1"
-      src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-4-1.svg"
+      src="../../public/img/vector-4-1.png"
       alt="Vector 4"
     />
     <group91 :phCopyrightThin="group91Props.phCopyrightThin" />

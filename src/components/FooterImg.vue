@@ -1,7 +1,7 @@
 <template>
   <div :class="[`component-2`, className || ``]">
     <div class="footer-container">
-      <img class="img-footer" :src="imgFooter" alt="Img footer" /><x-footer2
+      <img class="img-footer" src="../../public/img/img-footer.png" alt="Img footer" /><x-footer2
         :group91Props="xFooter2Props.group91Props"
       />
     </div>

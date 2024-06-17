@@ -225,7 +225,7 @@
         <div class="overlap-group18">
           <img
             class="vector-8"
-            src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-27.svg"
+            src="../../public/img/vector-27@2x.png"
             alt="Vector"
           />
         </div>

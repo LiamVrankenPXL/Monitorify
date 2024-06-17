@@ -4,13 +4,13 @@
       <div class="verschillende-rollen arimo-normal-black-32px">{{ verschillendeRollen }}</div>
       <img
         class="bxup-arrow"
-        src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/bx-up-arrow.svg"
+        src="../../public/img/bx-up-arrow@2x.png"
         alt="bx:up-arrow"
       />
     </div>
     <img
       class="vector-12"
-      src="https://cdn.animaapp.com/projects/665c4737c4dbe178c63261d4/releases/665c57822167f617a2554eee/img/vector-1-1.svg"
+      src="../../public/img/vector-1-1.png"
       alt="Vector 1"
     />
   </div>
